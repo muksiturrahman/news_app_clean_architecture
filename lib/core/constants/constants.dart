@@ -1,0 +1,1 @@
+const String newsApiBaseurl = 'https://newsapi.org/v2';
